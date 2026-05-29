@@ -9,3 +9,12 @@ I build and document hands-on IT infrastructure labs that simulate enterprise en
  - [Users and Organizational Units](https://github.com/Hamedadams01/Users-and-Organizational-Units)
  - [Connect to Domain](https://github.com/Hamedadams01/Connect-to-Domain/blob/main/README.md)
  - [Group Policy](https://github.com/Hamedadams01/Group-Policy/blob/main/README.md)
+----------------------------------------------------------------------------------------------
+# Entra ID/ Intune
+  - [Creating user ]()
+  - [Azure AD Connect]()
+  - [Conditional Access & MFA]()
+
+-----------------------------------------------------------------------------------------------
+# Ticketing 
+  - [Ticketing]()
