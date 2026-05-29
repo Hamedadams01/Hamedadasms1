@@ -40,8 +40,3 @@ I build hands-on IT labs focused on real-world system administration, cloud iden
   https://houtechproject.notion.site/Spiceworks-Ticketing-3263bf299a1b8022b6fef2d63f8a56d2
 
 ---
-
-## 📫 Connect
-
-- GitHub: https://github.com/Hamedadams01
-- LinkedIn: add your link here
