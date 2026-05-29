@@ -8,4 +8,4 @@ I build and document hands-on IT infrastructure labs that simulate enterprise en
  - [Active Directory & Domain](https://github.com/Hamedadams01/Active-Directory/tree/main)
  - [Users and Organizational Units](https://github.com/Hamedadams01/Users-and-Organizational-Units)
  - [Connect to Domain](https://github.com/Hamedadams01/Connect-to-Domain/blob/main/README.md)
- - [Group Policy]()
+ - [Group Policy](https://github.com/Hamedadams01/Group-Policy/blob/main/README.md)
