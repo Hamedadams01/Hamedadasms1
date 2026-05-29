@@ -15,6 +15,78 @@ My goal is to become a well-rounded IT professional with strong experience in:
 - Help Desk Support
 - Identity & Access Management
 - Ticketing Systems
+- Cybersecurity Fundamentals
+
+---
+
+# 🛠️ IT Infrastructure & Cloud Projects
+
+> Recommended GitHub Repository Structure
+
+```bash
+IT-Home-Lab/
+│
+├── Active-Directory-Domain/
+├── Group-Policy/
+├── Password-Policy/
+├── Azure-AD-Connect/
+├── Conditional-Access-MFA/
+├── Entra-ID-Intune/
+├── Spiceworks-Ticketing/
+├── Password-Reset-Lab/
+└── VirtualBox-Lab/
+````
+
+---
+
+# 📂 Example GitHub Project Format
+
+Use this structure for every repository:
+
+```markdown
+# Project Name
+
+## Overview
+Short explanation of the lab and what was built.
+
+## Technologies Used
+- Windows Server 2022
+- Active Directory
+- Azure
+- Microsoft Entra ID
+- PowerShell
+- VirtualBox
+
+## Objectives
+- Configure users and groups
+- Deploy Group Policy
+- Configure MFA
+- Simulate help desk tasks
+
+## Lab Setup
+Describe the virtual machines, operating systems, networking, and tools.
+
+## Configuration Steps
+1. Install Windows Server
+2. Configure Active Directory
+3. Create Organizational Units
+4. Add Users and Groups
+5. Apply Group Policy
+
+## Screenshots
+Add screenshots from your lab.
+
+## Skills Learned
+- Identity Management
+- Troubleshooting
+- Windows Administration
+- Cloud Administration
+
+## Outcome
+Explain what the lab accomplished and what you learned.
+```
+
+---
 
 ## 🖥️ Virtualization & Lab Setup
 
