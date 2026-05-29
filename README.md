@@ -1,7 +1,7 @@
 # Hi, I'm Hamed Adams 👋
 IT Support | Help Desk | Active Directory | Azure | Microsoft 365
 
-I build hands-on IT labs focused on real-world system administration, cloud identity, and help desk environments.
+I build and document hands-on IT infrastructure labs that simulate enterprise environments, focusing on Active Directory, cloud identity management, and IT support operations to prepare for system administration and cloud roles.
 
 ---
 
