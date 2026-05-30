@@ -11,7 +11,7 @@ I build and document hands-on IT infrastructure labs that simulate enterprise en
  - [Group Policy](https://github.com/Hamedadams01/Group-Policy/blob/main/README.md)
 ----------------------------------------------------------------------------------------------
 # Entra ID/ Intune
-  - [Creating user ]()
+  - [Creating user and Group ](https://github.com/Hamedadams01/Microsoft-Users-and-Group)
   - [Azure AD Connect]()
   - [Conditional Access & MFA]()
 
