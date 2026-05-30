@@ -12,7 +12,7 @@ I build and document hands-on IT infrastructure labs that simulate enterprise en
 ----------------------------------------------------------------------------------------------
 # Entra ID/ Intune
   - [Creating user and Group ](https://github.com/Hamedadams01/Microsoft-Users-and-Group)
-  - [Azure AD Connect]()
+  - [Azure AD Connect](https://github.com/Hamedadams01/Azure-Active-Directory-Connection)
   - [Conditional Access & MFA]()
 
 -----------------------------------------------------------------------------------------------
